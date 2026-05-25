@@ -3,8 +3,9 @@
 ## Project Setup
 
 ```bash
-git clone <your-github-repo>
-cd bribooks-assignment
+git clone https://github.com/Vishalsingh2306/bribooks-php-assignment.git
+
+cd bribooks-php-assignment
 composer install
 cp .env.example .env
 php artisan key:generate
